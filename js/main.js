@@ -8,7 +8,7 @@ document.getElementById("contact-btn").addEventListener("click", function() {
 });
 
 // Array of text strings to display
-const textArray = ["I am  a CONCACAF A LICENSED Football Coach. ", "With 4 Years Expriance In Canada. ", " Here is My portfolio. "];
+const textArray = ["I am  a CONCACF A candidate LICENSED Football Coach. ", "With 4 Years Expriance In Canada. ", " Here is My portfolio. "];
 let currentIndex = 0;
 let charIndex = 0;
 let currentText = '';
